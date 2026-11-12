@@ -1,0 +1,4 @@
+secrets.yaml
+*.gen.yaml
+.env
+.env.*
